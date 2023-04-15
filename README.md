@@ -1,4 +1,4 @@
-Coti's helpful [Python SDK](https://github.com/coti-io/coti-sdk-python) enables transactions to be submitted using code. That repository gives an example of using the SDK to build a COTI transaction, however, a CMD transaction cannot be submitted just by changing the currency hash. This repository builds on the example in the original repository to show how the SDK can be used for processing CMD transactions, and works for either CMD or COTI tokens.
+Coti's helpful [Python SDK](https://github.com/coti-io/coti-sdk-python) enables transactions to be submitted using code. That repository gives an example of using the SDK to build a COTI transaction, however, a CMD transaction cannot be submitted just by changing the currency hash. This repository builds on the original example to show how the SDK can be used to submit CMD transactions, and works for either CMD or COTI tokens.
 
 # Prerequisites
 
