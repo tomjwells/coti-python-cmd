@@ -1,3 +1,5 @@
+Coti have created a helpful [Python SDK](https://github.com/coti-io/coti-sdk-python) that enables transactions to be submitted to the Coti blockchain using code. In that repository they gave an example of using the SDK to build a COTI transaction, however, it is not possible to submit a CMD transaction by changing the currency hash in their example. This is because two inputs are needed to form a CMD transaction - one input for the CMD tokens you wish to send, and one COTI input for the fees. This repository builds on the example in the original repository to show how the SDK can be used for processing CMD transactions, and works for either CMD or COTI tokens.
+
 # Prerequisites
 
 Using this Python script requires that Coti's [Python SDK](https://github.com/coti-io/coti-sdk-python) be installed. Their SDK can be installed with
