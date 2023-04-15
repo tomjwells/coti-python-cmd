@@ -1,6 +1,6 @@
 # Prerequisites
 
-Using this Python script requires that Coti's Python SDK is installed. Their SDK can be installed with
+Using this Python script requires that Coti's [Python SDK](https://github.com/coti-io/coti-sdk-python) be installed. Their SDK can be installed with
 
 ```
 pip install coti-wallet
